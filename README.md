@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+<img width="960" alt="spot1" src="https://user-images.githubusercontent.com/63901956/128135885-a345a46b-61de-47e1-8ad0-22ccd94c0081.png">
+
+# Spotify Clone - React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +70,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<img width="960" alt="spot2" src="https://user-images.githubusercontent.com/63901956/128135974-5d8fcc44-4b6e-467e-b694-1c6c6e5f9256.png">
